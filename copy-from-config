@@ -1,6 +1,0 @@
-#!/bin/bash
-
-cp $XDG_CONFIG_HOME/shell/{profile,bm-dirs} $HOME/Documents/.configuration-files/Shell/
-cp $XDG_CONFIG_HOME/R/R* $HOME/Documents/.configuration-files/R
-cp $XDG_CONFIG_HOME/gnupg/{gpg-agent.conf,pinentry-dmenu.conf} $HOME/Documents/.configuration-files/gnupg
-cp $XDG_CONFIG_HOME/dunst/dunstrc $HOME/Documents/.configuration-files/dunst/dunstrc
